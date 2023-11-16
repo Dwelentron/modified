@@ -1,0 +1,8 @@
+.logo{
+    width: 50px;
+}
+.start{
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+}
