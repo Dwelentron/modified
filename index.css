@@ -17,7 +17,7 @@ body{
 }
 .nav ul{
     display: flex;
-    margin-right: auto;
+    margin-left: auto;
 }
 .nav ul li{
     list-style: none;
@@ -29,4 +29,11 @@ body{
 }
 .title{
     font-size: 1.5rem;
+}
+.down{
+    display: none;
+}
+.down ul{
+    display: block;
+    position: absolute;
 }
